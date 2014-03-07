@@ -1,4 +1,4 @@
-require "rest-client"
+require "restclient"
 require "json"
 require "yaml"
 require "sauce/parallel/test_group"

@@ -1,4 +1,4 @@
-require 'rest_client'
+require 'restclient'
 require 'json'
 
 module Sauce
